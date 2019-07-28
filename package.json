@@ -6,7 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
-
   },
   "repository": {
     "type": "git",
@@ -18,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/LouisRollins/friend-finder/issues"
   },
-  "homepage": "https://github.com/LouisRollins/friend-finder#readme"
+  "homepage": "https://github.com/LouisRollins/friend-finder#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
